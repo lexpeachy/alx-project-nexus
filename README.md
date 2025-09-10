@@ -57,7 +57,4 @@ The program emphasizes building scalable systems, mastering backend frameworks, 
 ## ✨ Final Thoughts
 This repository reflects my growth as a backend engineer and acts as a knowledge base for future projects. It also serves as a reference point for best practices and lessons learned during the program.
 
----
-
-
-## 📂 Repository Structure
+----
